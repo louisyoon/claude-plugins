@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "louis-plugins",
+  "description": "개인 Claude Code 플러그인 모음",
+  "owner": { "name": "louisyoon" },
+  "plugins": [
+    {
+      "name": "dev-pipeline",
+      "description": "pm → architect → coder → (tester) → reviewer → qa → docs 에이전트 파이프라인. 레포별 규칙은 .claude/pipeline.md에서 읽는다.",
+      "version": "1.0.0",
+      "source": "./plugins/dev-pipeline",
+      "category": "productivity"
+    }
+  ]
+}

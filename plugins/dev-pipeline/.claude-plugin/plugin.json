@@ -1,0 +1,7 @@
+{
+  "name": "dev-pipeline",
+  "version": "1.0.0",
+  "description": "pm → architect → coder → (tester) → reviewer → qa → docs 에이전트 파이프라인",
+  "author": { "name": "louisyoon" },
+  "keywords": ["pipeline", "multi-agent", "prd", "review", "qa"]
+}
